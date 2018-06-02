@@ -7,3 +7,10 @@
  Version: 1
  */
 
+
+.custom-header {
+    height: 50vh;
+}
+.site-title {
+    font-size: 4.25rem;
+}
