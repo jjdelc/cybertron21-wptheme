@@ -9,7 +9,7 @@
 
 
 .custom-header {
-    height: 50vh;
+    height: 50vh !important;
 }
 .site-title {
     font-size: 4.25rem;
