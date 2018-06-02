@@ -8,5 +8,5 @@ function cybertron21_enqueue_styles() {
         array( $parent_style )
     );
 }
-add_action( 'wp_enqueue_scripts', 'cybertron21_enqueue_style' );
+add_action( 'wp_enqueue_scripts', 'cybertron21_enqueue_styles' );
 ?>
