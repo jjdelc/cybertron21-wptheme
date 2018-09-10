@@ -14,3 +14,15 @@
 .site-title {
     font-size: 4.25rem;
 }
+.wrap {
+    max-width: 1200px;
+}
+.has-sidebar:not(.error404) #primary {
+    width: 64%;
+}
+.has-sidebar #secondary {
+    width: 30%;
+}
+.post {
+    font-size: 1.2rem;
+}
